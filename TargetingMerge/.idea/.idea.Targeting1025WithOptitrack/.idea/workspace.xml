@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86e8895c-28f7-44b7-8bc8-72bde9d8e172" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/BalloonController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="136" column="19" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="19" />
+              <folding>
+                <marker date="1572860098000" expanded="false" signature="8:80" ph="..." />
+                <marker date="1572860098000" expanded="true" signature="128:4427" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="1246:1400" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="1463:1704" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="1737:1843" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="1875:1933" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="1968:2780" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="2059:2774" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="2516:2629" ph="/* HeightError = dir.y; ... */" />
+                <marker date="1572860098000" expanded="true" signature="2644:2763" ph="/* OverallTarget = directions[i]; ... */" />
+                <marker date="1572860098000" expanded="true" signature="2814:3577" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="3611:4425" ph="{...}" />
+                <marker date="1572860098000" expanded="true" signature="3626:3785" ph="/* PositionalError = CurrentErrorDistance; ... */" />
+                <marker date="1572860098000" expanded="true" signature="4053:4146" ph="/* Debug.Log(&quot;forceMove&quot; + forceMove); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/PIDController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="883">
+              <caret line="76" column="45" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="45" />
+              <folding>
+                <marker date="1572030184000" expanded="false" signature="6:78" ph="..." />
+                <marker date="1572030184000" expanded="true" signature="107:2176" ph="{...}" />
+                <marker date="1572030184000" expanded="true" signature="626:712" ph="{...}" />
+                <marker date="1572030184000" expanded="true" signature="866:1043" ph="{...}" />
+                <marker date="1572030184000" expanded="true" signature="1208:1388" ph="{...}" />
+                <marker date="1572030184000" expanded="true" signature="1439:2174" ph="{...}" />
+                <marker date="1572030184000" expanded="true" signature="1728:1877" ph="/* Sometimes better to just sum the last errors ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Script/AddForcetoMotor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="255" column="33" selection-start-line="255" selection-start-column="33" selection-end-line="255" selection-end-column="33" />
+              <folding>
+                <marker date="1572864245411" expanded="false" signature="6:78" ph="..." />
+                <marker date="1572864245411" expanded="true" signature="124:8813" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="1632:2168" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="1924:2010" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="2020:2162" ph="/* PID_height_gains = new Vector3(1, 1, 1); ... */" />
+                <marker date="1572864245411" expanded="true" signature="2226:2497" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="2278:2311" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="2526:4663" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="2823:2944" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="2957:3083" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="3182:3257" ph="/* Debug.Log(&quot;PID_Height_output : &quot; + PID_Height_output); ... */" />
+                <marker date="1572864245411" expanded="true" signature="3283:3426" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="3439:3583" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="3608:3726" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="3739:3863" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="3899:4043" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="4111:4255" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="4268:4412" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="4443:4494" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="4565:4616" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="4686:5353" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="4830:4883" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="4896:4948" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="5005:5056" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="5069:5119" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="5128:5234" ph="/* if (Mathf.Abs(PID_move_output) &lt; MIN_MOVE_THRES) ... */" />
+                <marker date="1572864245411" expanded="true" signature="5295:5346" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="5401:6897" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="5461:6891" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="5539:6367" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="5578:6067" ph="/* float angleAA = Sphere.GetComponent&lt;BalloonController&gt;().angleA; ... */" />
+                <marker date="1572864245411" expanded="true" signature="6266:6347" ph="/* ApplyTorque(transform.up, propellerA); ... */" />
+                <marker date="1572864245411" expanded="true" signature="6398:6597" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="6511:6578" ph="/* Apply  to Motors ... */" />
+                <marker date="1572864245411" expanded="true" signature="6688:6858" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="6951:7048" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="7105:7185" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="7216:8809" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="7288:7977" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="7692:7788" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="7805:7903" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="7990:8142" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="8181:8637" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="8490:8562" ph="/* Debug.Log(&quot;float b: &quot; + b); ... */" />
+                <marker date="1572864245411" expanded="true" signature="8650:8802" ph="{...}" />
+                <marker date="1572864245411" expanded="true" signature="8839:8867" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/TorqueTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <marker date="1572862354978" expanded="true" signature="6:78" ph="..." />
+                <marker date="1572862354978" expanded="true" signature="119:537" ph="{...}" />
+                <marker date="1572862354978" expanded="true" signature="217:269" ph="{...}" />
+                <marker date="1572862354978" expanded="true" signature="293:535" ph="{...}" />
+                <marker date="1572862354978" expanded="true" signature="365:434" ph="{...}" />
+                <marker date="1572862354978" expanded="true" signature="447:521" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>PID_Rotate_output</find>
+      <find>ApplyTorque</find>
+      <find>PID_height_gains</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/TorqueTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/BalloonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/PIDController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AddForcetoMotor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/TorqueTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/AddForcetoMotor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1132" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Script" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86e8895c-28f7-44b7-8bc8-72bde9d8e172" name="Default Changelist" comment="" />
+      <created>1572860902418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572860902418</updated>
+      <workItem from="1572860907109" duration="41000" />
+      <workItem from="1572860966234" duration="2847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2888000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1132" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17891374" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/TorqueTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <marker date="1572862354978" expanded="true" signature="6:78" ph="..." />
+            <marker date="1572862354978" expanded="true" signature="119:537" ph="{...}" />
+            <marker date="1572862354978" expanded="true" signature="217:269" ph="{...}" />
+            <marker date="1572862354978" expanded="true" signature="293:535" ph="{...}" />
+            <marker date="1572862354978" expanded="true" signature="365:434" ph="{...}" />
+            <marker date="1572862354978" expanded="true" signature="447:521" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/BalloonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="136" column="19" selection-start-line="136" selection-start-column="8" selection-end-line="136" selection-end-column="19" />
+          <folding>
+            <marker date="1572860098000" expanded="false" signature="8:80" ph="..." />
+            <marker date="1572860098000" expanded="true" signature="128:4427" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="1246:1400" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="1463:1704" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="1737:1843" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="1875:1933" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="1968:2780" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="2059:2774" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="2516:2629" ph="/* HeightError = dir.y; ... */" />
+            <marker date="1572860098000" expanded="true" signature="2644:2763" ph="/* OverallTarget = directions[i]; ... */" />
+            <marker date="1572860098000" expanded="true" signature="2814:3577" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="3611:4425" ph="{...}" />
+            <marker date="1572860098000" expanded="true" signature="3626:3785" ph="/* PositionalError = CurrentErrorDistance; ... */" />
+            <marker date="1572860098000" expanded="true" signature="4053:4146" ph="/* Debug.Log(&quot;forceMove&quot; + forceMove); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/PIDController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="883">
+          <caret line="76" column="45" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="45" />
+          <folding>
+            <marker date="1572030184000" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572030184000" expanded="true" signature="107:2176" ph="{...}" />
+            <marker date="1572030184000" expanded="true" signature="626:712" ph="{...}" />
+            <marker date="1572030184000" expanded="true" signature="866:1043" ph="{...}" />
+            <marker date="1572030184000" expanded="true" signature="1208:1388" ph="{...}" />
+            <marker date="1572030184000" expanded="true" signature="1439:2174" ph="{...}" />
+            <marker date="1572030184000" expanded="true" signature="1728:1877" ph="/* Sometimes better to just sum the last errors ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/AddForcetoMotor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="255" column="33" selection-start-line="255" selection-start-column="33" selection-end-line="255" selection-end-column="33" />
+          <folding>
+            <marker date="1572864245411" expanded="false" signature="6:78" ph="..." />
+            <marker date="1572864245411" expanded="true" signature="124:8813" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="1632:2168" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="1924:2010" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="2020:2162" ph="/* PID_height_gains = new Vector3(1, 1, 1); ... */" />
+            <marker date="1572864245411" expanded="true" signature="2226:2497" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="2278:2311" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="2526:4663" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="2823:2944" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="2957:3083" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="3182:3257" ph="/* Debug.Log(&quot;PID_Height_output : &quot; + PID_Height_output); ... */" />
+            <marker date="1572864245411" expanded="true" signature="3283:3426" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="3439:3583" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="3608:3726" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="3739:3863" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="3899:4043" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="4111:4255" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="4268:4412" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="4443:4494" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="4565:4616" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="4686:5353" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="4830:4883" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="4896:4948" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="5005:5056" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="5069:5119" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="5128:5234" ph="/* if (Mathf.Abs(PID_move_output) &lt; MIN_MOVE_THRES) ... */" />
+            <marker date="1572864245411" expanded="true" signature="5295:5346" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="5401:6897" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="5461:6891" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="5539:6367" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="5578:6067" ph="/* float angleAA = Sphere.GetComponent&lt;BalloonController&gt;().angleA; ... */" />
+            <marker date="1572864245411" expanded="true" signature="6266:6347" ph="/* ApplyTorque(transform.up, propellerA); ... */" />
+            <marker date="1572864245411" expanded="true" signature="6398:6597" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="6511:6578" ph="/* Apply  to Motors ... */" />
+            <marker date="1572864245411" expanded="true" signature="6688:6858" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="6951:7048" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="7105:7185" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="7216:8809" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="7288:7977" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="7692:7788" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="7805:7903" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="7990:8142" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="8181:8637" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="8490:8562" ph="/* Debug.Log(&quot;float b: &quot; + b); ... */" />
+            <marker date="1572864245411" expanded="true" signature="8650:8802" ph="{...}" />
+            <marker date="1572864245411" expanded="true" signature="8839:8867" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
